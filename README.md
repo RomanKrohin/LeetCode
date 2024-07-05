@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RomanKrohin/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RomanKrohin/LeetCode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RomanKrohin/LeetCode/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/RomanKrohin/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RomanKrohin/LeetCode/tree/master/0002-add-two-numbers) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RomanKrohin/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |

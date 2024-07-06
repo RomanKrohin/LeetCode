@@ -12,6 +12,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/RomanKrohin/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/RomanKrohin/LeetCode/tree/master/0013-roman-to-integer) |
+| [2645-pass-the-pillow](https://github.com/RomanKrohin/LeetCode/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
 | ------- |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RomanKrohin/LeetCode/tree/master/0035-search-insert-position) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/RomanKrohin/LeetCode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->

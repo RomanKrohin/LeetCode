@@ -12,6 +12,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/RomanKrohin/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/RomanKrohin/LeetCode/tree/master/0013-roman-to-integer) |
+| [1642-water-bottles](https://github.com/RomanKrohin/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/RomanKrohin/LeetCode/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
@@ -45,5 +46,6 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/RomanKrohin/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/RomanKrohin/LeetCode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->

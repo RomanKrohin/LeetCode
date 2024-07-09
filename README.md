@@ -38,6 +38,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RomanKrohin/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RomanKrohin/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RomanKrohin/LeetCode/tree/master/0035-search-insert-position) |
+| [1803-average-waiting-time](https://github.com/RomanKrohin/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RomanKrohin/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/RomanKrohin/LeetCode/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/RomanKrohin/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RomanKrohin/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/RomanKrohin/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Queue

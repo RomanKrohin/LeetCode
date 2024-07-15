@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RomanKrohin/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RomanKrohin/LeetCode/tree/master/0013-roman-to-integer) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/RomanKrohin/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [1720-crawler-log-folder](https://github.com/RomanKrohin/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/RomanKrohin/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RomanKrohin/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/RomanKrohin/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +74,12 @@
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RomanKrohin/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/RomanKrohin/LeetCode/tree/master/1720-crawler-log-folder) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/RomanKrohin/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/RomanKrohin/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->

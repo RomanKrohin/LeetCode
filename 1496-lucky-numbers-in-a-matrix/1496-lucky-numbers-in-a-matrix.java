@@ -4,11 +4,18 @@ class Solution {
         ArrayList<Integer> list = new ArrayList<>();
 
         for (int i=0; i < matrix.length; i++){
-
-            List<Integer> mins = Arrays.stream(matrix[i]).boxed().toList();
-            int min = Collections.min(mins);
+            int min = Integer.MAX_VALUE;
             int max = Integer.MIN_VALUE;
-            int index = mins.indexOf(min);
+            int index=0;
+
+            for (int k=0; k<matrix[i].length; k++){
+                if (min>matrix[i][k]){
+                    index = k;
+                    min = matrix[i][k];
+                }
+            }
+
+            System.out.println(min);
 
             for (int j=0; j < matrix.length; j++){
                 if (max<matrix[j][index]) max=matrix[j][index];

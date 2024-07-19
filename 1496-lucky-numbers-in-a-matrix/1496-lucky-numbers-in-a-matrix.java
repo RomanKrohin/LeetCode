@@ -15,8 +15,6 @@ class Solution {
                 }
             }
 
-            System.out.println(min);
-
             for (int j=0; j < matrix.length; j++){
                 if (max<matrix[j][index]) max=matrix[j][index];
             };

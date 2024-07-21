@@ -24,16 +24,15 @@ class Solution {
         return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
     }
 
-    private boolean proof(TreeNode node, TreeNode subRoot) {
-        if (node == null && subRoot == null) {
+    private boolean proof (TreeNode node, TreeNode root){
+
+        if (node==null && root==null){
             return true;
         }
-        if (node == null || subRoot == null) {
-            return false;
+        if (node != null && root != null && node.val == root.val && proof(node.right, root.right) && proof(node.left, root.left)){
+            return true;
         }
-        if (node.val != subRoot.val) {
-            return false;
-        }
-        return proof(node.left, subRoot.left) && proof(node.right, subRoot.right);
+
+        return false;
     }
 }

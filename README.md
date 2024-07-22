@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/RomanKrohin/LeetCode/tree/master/0013-roman-to-integer) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RomanKrohin/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/RomanKrohin/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/RomanKrohin/LeetCode/tree/master/2502-sort-the-people) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/RomanKrohin/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 ## Math
 |  |
@@ -27,6 +28,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RomanKrohin/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/RomanKrohin/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/RomanKrohin/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/RomanKrohin/LeetCode/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [1803-average-waiting-time](https://github.com/RomanKrohin/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RomanKrohin/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/RomanKrohin/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/RomanKrohin/LeetCode/tree/master/2502-sort-the-people) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/RomanKrohin/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 ## Two Pointers
 |  |
@@ -119,4 +122,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/RomanKrohin/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/RomanKrohin/LeetCode/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/RomanKrohin/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RomanKrohin/LeetCode/tree/master/0013-roman-to-integer) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RomanKrohin/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/RomanKrohin/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/RomanKrohin/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/RomanKrohin/LeetCode/tree/master/2502-sort-the-people) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/RomanKrohin/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
@@ -52,6 +53,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/RomanKrohin/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RomanKrohin/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/RomanKrohin/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/RomanKrohin/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/RomanKrohin/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RomanKrohin/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/RomanKrohin/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -125,5 +127,6 @@
 ## Sorting
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/RomanKrohin/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/RomanKrohin/LeetCode/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->

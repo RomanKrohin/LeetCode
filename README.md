@@ -51,6 +51,7 @@
 | [0027-remove-element](https://github.com/RomanKrohin/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RomanKrohin/LeetCode/tree/master/0035-search-insert-position) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RomanKrohin/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1333-sort-the-jumbled-numbers](https://github.com/RomanKrohin/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RomanKrohin/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/RomanKrohin/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RomanKrohin/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -127,6 +128,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1333-sort-the-jumbled-numbers](https://github.com/RomanKrohin/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RomanKrohin/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/RomanKrohin/LeetCode/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->

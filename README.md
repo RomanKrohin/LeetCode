@@ -53,6 +53,7 @@
 | [0035-search-insert-position](https://github.com/RomanKrohin/LeetCode/tree/master/0035-search-insert-position) |
 | [0948-sort-an-array](https://github.com/RomanKrohin/LeetCode/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RomanKrohin/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/RomanKrohin/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RomanKrohin/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RomanKrohin/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/RomanKrohin/LeetCode/tree/master/1720-crawler-log-folder) |

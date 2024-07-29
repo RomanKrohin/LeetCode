@@ -6,7 +6,6 @@ class Solution {
         int[] greaterFromLeft = new int[n];
         int[] greaterFromRight = new int[n];
 
-        // Count the number of elements less than and greater than rating[i] from the left
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < i; j++) {
                 if (rating[j] < rating[i]) {
@@ -17,7 +16,6 @@ class Solution {
             }
         }
 
-        // Count the number of elements less than and greater than rating[i] from the right
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
                 if (rating[j] < rating[i]) {
@@ -29,7 +27,6 @@ class Solution {
         }
 
         int count = 0;
-        // Count the number of valid teams
         for (int i = 0; i < n; i++) {
             count += lessFromLeft[i] * greaterFromRight[i] + greaterFromLeft[i] * lessFromRight[i];
         }

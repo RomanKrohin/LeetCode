@@ -52,6 +52,7 @@
 | [0027-remove-element](https://github.com/RomanKrohin/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RomanKrohin/LeetCode/tree/master/0035-search-insert-position) |
 | [0948-sort-an-array](https://github.com/RomanKrohin/LeetCode/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/RomanKrohin/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RomanKrohin/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/RomanKrohin/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RomanKrohin/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -164,6 +165,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1196-filling-bookcase-shelves](https://github.com/RomanKrohin/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RomanKrohin/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/RomanKrohin/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Graph

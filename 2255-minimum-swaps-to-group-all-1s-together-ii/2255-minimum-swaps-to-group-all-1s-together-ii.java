@@ -1,31 +1,38 @@
 class Solution {
     public int minSwaps(int[] nums) {
-        int count =Integer.MAX_VALUE;
-        int total =0;
-        int tmp=0;
-        int[] circleNums = new int[(nums.length*2)];
-
-        System.arraycopy(nums, 0, circleNums, 0, nums.length);
-        System.arraycopy(nums, 0, circleNums, nums.length, nums.length);
-
-        for (int number: nums){
-            if (number==1) total++;
+        int n = nums.length;
+        int totalOnes = 0;
+        int minSwaps = Integer.MAX_VALUE;
+        
+        for (int num : nums) {
+            if (num == 1) {
+                totalOnes++;
+            }
         }
 
-        for (int i=0; i<total; i++){
-            if (nums[i]==0) tmp++;
+        if (totalOnes == 0) {
+            return 0;
         }
 
-        for (int i=total; i<circleNums.length-1;i++){
-            if (circleNums[i]==0)  tmp++;
-            if  (circleNums[i-total]==0) tmp--;
-
-            if (tmp<count){
-                count=tmp;
+        int currentZeros = 0;
+        for (int i = 0; i < totalOnes; i++) {
+            if (nums[i] == 0) {
+                currentZeros++;
             }
         }
         
-        if (count==Integer.MAX_VALUE) count=0;
-        return count;
+        minSwaps = currentZeros;
+
+        for (int i = totalOnes; i < n + totalOnes; i++) {
+            if (nums[i % n] == 0) {
+                currentZeros++;
+            }
+            if (nums[(i - totalOnes) % n] == 0) {
+                currentZeros--;
+            }
+            minSwaps = Math.min(minSwaps, currentZeros);
+        }
+
+        return minSwaps;
     }
 }

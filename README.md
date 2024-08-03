@@ -19,6 +19,7 @@
 | [0002-add-two-numbers](https://github.com/RomanKrohin/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/RomanKrohin/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RomanKrohin/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/RomanKrohin/LeetCode/tree/master/0066-plus-one) |
 | [1642-water-bottles](https://github.com/RomanKrohin/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RomanKrohin/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/RomanKrohin/LeetCode/tree/master/2383-add-two-integers) |
@@ -55,6 +56,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RomanKrohin/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RomanKrohin/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RomanKrohin/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/RomanKrohin/LeetCode/tree/master/0066-plus-one) |
 | [0948-sort-an-array](https://github.com/RomanKrohin/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/RomanKrohin/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RomanKrohin/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |

@@ -59,6 +59,7 @@
 | [0027-remove-element](https://github.com/RomanKrohin/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RomanKrohin/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/RomanKrohin/LeetCode/tree/master/0066-plus-one) |
+| [0542-01-matrix](https://github.com/RomanKrohin/LeetCode/tree/master/0542-01-matrix) |
 | [0948-sort-an-array](https://github.com/RomanKrohin/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/RomanKrohin/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RomanKrohin/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -138,6 +139,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/RomanKrohin/LeetCode/tree/master/0542-01-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RomanKrohin/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## String Matching
 |  |
@@ -185,6 +187,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/RomanKrohin/LeetCode/tree/master/0542-01-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/RomanKrohin/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RomanKrohin/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/RomanKrohin/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -206,4 +209,8 @@
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RomanKrohin/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/RomanKrohin/LeetCode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->

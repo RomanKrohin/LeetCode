@@ -58,6 +58,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RomanKrohin/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RomanKrohin/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RomanKrohin/LeetCode/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/RomanKrohin/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/RomanKrohin/LeetCode/tree/master/0066-plus-one) |
 | [0542-01-matrix](https://github.com/RomanKrohin/LeetCode/tree/master/0542-01-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/RomanKrohin/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -231,4 +232,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RomanKrohin/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/RomanKrohin/LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->

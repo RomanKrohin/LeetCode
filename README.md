@@ -14,6 +14,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/RomanKrohin/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/RomanKrohin/LeetCode/tree/master/2502-sort-the-people) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/RomanKrohin/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/RomanKrohin/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [2502-sort-the-people](https://github.com/RomanKrohin/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/RomanKrohin/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RomanKrohin/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/RomanKrohin/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Linked List
 |  |
 | ------- |

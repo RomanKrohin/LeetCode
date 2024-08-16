@@ -63,6 +63,7 @@
 | [0040-combination-sum-ii](https://github.com/RomanKrohin/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/RomanKrohin/LeetCode/tree/master/0066-plus-one) |
 | [0542-01-matrix](https://github.com/RomanKrohin/LeetCode/tree/master/0542-01-matrix) |
+| [0624-maximum-distance-in-arrays](https://github.com/RomanKrohin/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0921-spiral-matrix-iii](https://github.com/RomanKrohin/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/RomanKrohin/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/RomanKrohin/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -238,4 +239,8 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/RomanKrohin/LeetCode/tree/master/0040-combination-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/RomanKrohin/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 <!---LeetCode Topics End-->

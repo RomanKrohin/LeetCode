@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RomanKrohin/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RomanKrohin/LeetCode/tree/master/0013-roman-to-integer) |
+| [0264-ugly-number-ii](https://github.com/RomanKrohin/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RomanKrohin/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RomanKrohin/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RomanKrohin/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -22,6 +23,7 @@
 | [0009-palindrome-number](https://github.com/RomanKrohin/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RomanKrohin/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RomanKrohin/LeetCode/tree/master/0066-plus-one) |
+| [0264-ugly-number-ii](https://github.com/RomanKrohin/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1642-water-bottles](https://github.com/RomanKrohin/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RomanKrohin/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/RomanKrohin/LeetCode/tree/master/2383-add-two-integers) |
@@ -176,6 +178,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/RomanKrohin/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RomanKrohin/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/RomanKrohin/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -198,6 +201,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/RomanKrohin/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0542-01-matrix](https://github.com/RomanKrohin/LeetCode/tree/master/0542-01-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/RomanKrohin/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RomanKrohin/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |

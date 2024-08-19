@@ -24,6 +24,7 @@
 | [0013-roman-to-integer](https://github.com/RomanKrohin/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RomanKrohin/LeetCode/tree/master/0066-plus-one) |
 | [0264-ugly-number-ii](https://github.com/RomanKrohin/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/RomanKrohin/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1642-water-bottles](https://github.com/RomanKrohin/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RomanKrohin/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/RomanKrohin/LeetCode/tree/master/2383-add-two-integers) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/RomanKrohin/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0542-01-matrix](https://github.com/RomanKrohin/LeetCode/tree/master/0542-01-matrix) |
+| [0650-2-keys-keyboard](https://github.com/RomanKrohin/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/RomanKrohin/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RomanKrohin/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/RomanKrohin/LeetCode/tree/master/1511-count-number-of-teams) |

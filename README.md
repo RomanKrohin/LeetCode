@@ -25,6 +25,7 @@
 | [0066-plus-one](https://github.com/RomanKrohin/LeetCode/tree/master/0066-plus-one) |
 | [0264-ugly-number-ii](https://github.com/RomanKrohin/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/RomanKrohin/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/RomanKrohin/LeetCode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/RomanKrohin/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RomanKrohin/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/RomanKrohin/LeetCode/tree/master/2383-add-two-integers) |
@@ -72,6 +73,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/RomanKrohin/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RomanKrohin/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/RomanKrohin/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1240-stone-game-ii](https://github.com/RomanKrohin/LeetCode/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RomanKrohin/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RomanKrohin/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/RomanKrohin/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -206,6 +208,7 @@
 | [0542-01-matrix](https://github.com/RomanKrohin/LeetCode/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/RomanKrohin/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/RomanKrohin/LeetCode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/RomanKrohin/LeetCode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RomanKrohin/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/RomanKrohin/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RomanKrohin/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -256,4 +259,12 @@
 | ------- |
 | [0584-find-customer-referee](https://github.com/RomanKrohin/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/RomanKrohin/LeetCode/tree/master/0595-big-countries) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/RomanKrohin/LeetCode/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/RomanKrohin/LeetCode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@
 | [0009-palindrome-number](https://github.com/RomanKrohin/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RomanKrohin/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RomanKrohin/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/RomanKrohin/LeetCode/tree/master/0067-add-binary) |
 | [0264-ugly-number-ii](https://github.com/RomanKrohin/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/RomanKrohin/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/RomanKrohin/LeetCode/tree/master/1240-stone-game-ii) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/RomanKrohin/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RomanKrohin/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/RomanKrohin/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/RomanKrohin/LeetCode/tree/master/0344-reverse-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RomanKrohin/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/RomanKrohin/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -107,6 +109,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RomanKrohin/LeetCode/tree/master/0067-add-binary) |
 | [0921-spiral-matrix-iii](https://github.com/RomanKrohin/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/RomanKrohin/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/RomanKrohin/LeetCode/tree/master/1803-average-waiting-time) |
@@ -270,5 +273,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RomanKrohin/LeetCode/tree/master/0067-add-binary) |
 | [0476-number-complement](https://github.com/RomanKrohin/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->

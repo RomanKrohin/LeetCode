@@ -42,6 +42,7 @@
 | [0344-reverse-string](https://github.com/RomanKrohin/LeetCode/tree/master/0344-reverse-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RomanKrohin/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/RomanKrohin/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RomanKrohin/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RomanKrohin/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/RomanKrohin/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/RomanKrohin/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -88,6 +89,7 @@
 | [1720-crawler-log-folder](https://github.com/RomanKrohin/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RomanKrohin/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/RomanKrohin/LeetCode/tree/master/1803-average-waiting-time) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RomanKrohin/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RomanKrohin/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RomanKrohin/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/RomanKrohin/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -276,6 +278,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/RomanKrohin/LeetCode/tree/master/1240-stone-game-ii) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RomanKrohin/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RomanKrohin/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Game Theory
 |  |

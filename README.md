@@ -305,4 +305,5 @@
 | [1186-building-h2o](https://github.com/RomanKrohin/LeetCode/tree/master/1186-building-h2o) |
 | [1203-print-in-order](https://github.com/RomanKrohin/LeetCode/tree/master/1203-print-in-order) |
 | [1316-fizz-buzz-multithreaded](https://github.com/RomanKrohin/LeetCode/tree/master/1316-fizz-buzz-multithreaded) |
+| [1340-the-dining-philosophers](https://github.com/RomanKrohin/LeetCode/tree/master/1340-the-dining-philosophers) |
 <!---LeetCode Topics End-->
